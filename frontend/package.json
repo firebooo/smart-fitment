@@ -1,0 +1,27 @@
+{
+  "name": "smart-fitment-frontend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "axios": "^1.7.3",
+    "element-plus": "^2.7.8",
+    "nuxt": "^3.12.4",
+    "three": "^0.167.0",
+    "vue": "latest"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@element-plus/nuxt": "^1.0.9",
+    "@nuxtjs/tailwindcss": "^6.12.1",
+    "@types/three": "^0.167.1"
+  }
+}
