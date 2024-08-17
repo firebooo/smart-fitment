@@ -17,4 +17,4 @@ logs
 !.env.example
 
 # 本地服务静态文件
-backend/public/*
+/backend/public/*
