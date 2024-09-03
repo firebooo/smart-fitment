@@ -24,6 +24,7 @@ const limits = {
     files: 1//文件数量
 }
 
+// ts-ignore
 const upload = multer({ storage, limits })
 
 // 请求处理formData类型的文件

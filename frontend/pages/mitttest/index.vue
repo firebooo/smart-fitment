@@ -1,0 +1,4 @@
+<template>
+    <ProjectA />
+    <ProjectB />
+</template>

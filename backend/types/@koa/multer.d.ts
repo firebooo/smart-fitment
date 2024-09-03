@@ -15,6 +15,8 @@ declare module '@koa/multer'{
     export function multer(obj: any): void;
 }
 
+declare function multer(params: any): any;
+
 // declare function multer(params: any): void;
 
-// export default multer;
+// export default multer; 

@@ -7,5 +7,8 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     '@vueuse/nuxt',
     '@pinia/nuxt'
-  ]
+  ],
+  devServer: {
+    port: 8080
+  }
 })
